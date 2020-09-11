@@ -1,9 +1,9 @@
 {
     "name": "nb_google/apiclient-services",
     "type": "library",
-    "description": "Client library for Google APIs",
+    "description": "Client library for NetBase Team Developer Customize from API Google",
     "keywords": ["google"],
-    "homepage": "http://developers.google.com/api-client-library/php",
+    "homepage": "https://github.com/mrchienbmq/googleapiclientservice",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4"
